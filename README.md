@@ -6,7 +6,7 @@ Grocery List App
 A simple React application for creating and managing a grocery shopping list.
 You can add, mark, and delete items easily.
 
-Description
+**Description**
 
 This app consists of two main components:
 
@@ -14,7 +14,7 @@ App.jsx — the main application component with header and images.
 
 GroceryList.jsx — the grocery list component with input field and action buttons.
 
-Features:
+**Features:**
 
 Add new grocery items
 
@@ -22,12 +22,7 @@ Click on an item to mark it as purchased (crossed out)
 
 Delete all items from the list
 
-Screenshots
-
-
-
-
-Installation and Running Locally
+**Installation and Running Locally**
 
 Clone the repository:
 
@@ -48,7 +43,7 @@ Start the development server:
 
 npm run dev
 
-Project Structure
+**Project Structure**
 File Name	Description
 App.jsx	Main app component (header, images, GroceryList)
 GroceryList.jsx	Grocery list component (input, buttons, list)
@@ -58,7 +53,7 @@ assets/shopping.jpg	Shopping image
 assets/man.jpg	User image
 
 
-How to Use
+**How to Use**
 
 Enter an item name in the input field.
 
@@ -68,5 +63,5 @@ Click an item to cross it out (mark as purchased).
 
 Click DELETE to clear the entire list.
 
-Author
+**Author**
 Elena B
