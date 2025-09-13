@@ -26,7 +26,7 @@ Delete all items from the list
 
 Clone the repository:
 
-git clone https://github.com/username/grocery-list-app.git
+git clone 
 
 
 Navigate to the project folder:
