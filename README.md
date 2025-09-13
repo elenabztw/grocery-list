@@ -44,13 +44,13 @@ Start the development server:
 npm run dev
 
 **Project Structure**
-File Name	Description
-App.jsx	Main app component (header, images, GroceryList)
-GroceryList.jsx	Grocery list component (input, buttons, list)
-App.css	App styling
-assets/check.png	Check icon for items
-assets/shopping.jpg	Shopping image
-assets/man.jpg	User image
+- File Name	Description
+- App.jsx	Main app component (header, images, GroceryList)
+- GroceryList.jsx	Grocery list component (input, buttons, list)
+- App.css	App styling
+- assets/check.png	Check icon for items
+- assets/shopping.jpg	Shopping image
+- assets/man.jpg	User image
 
 
 **How to Use**
