@@ -46,7 +46,7 @@ Updating State – this.setState() is used to update the component’s state whe
 
 JSX – Render method returns JSX with elements, attributes, and event handlers.
 
-Conditional Rendering / Lists – It uses .map() to dynamically render a list of <li> elements based on this.state.groceryList.
+Conditional Rendering / Lists – It uses .map() to dynamically render a list of li elements based on this.state.groceryList.
 
 Props / Imports – Imports an image (check.png) and uses it inside JSX.
 
