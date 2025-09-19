@@ -22,6 +22,43 @@ Click on an item to mark it as purchased (crossed out)
 
 Delete all items from the list
 
+**App.jsx**
+
+Functional Component – function App() is a function component.
+
+React Hooks – useState is imported and used to create state variables inside a function component.
+
+JSX – The return statement contains HTML-like JSX markup.
+
+Component Composition – It imports and renders another component (<GroceryList />) inside App.
+
+**GroceryList.jsx**
+
+The app demonstrates both React paradigms at once:
+
+1) Functional component + Hooks (App.jsx)
+
+React Hooks – useState is imported and used to create state variables inside a function component.
+JSX – The return statement contains HTML-like JSX markup
+Component Composition – It imports and renders another component (<GroceryList />) inside App.
+
+3) Class component + State/lifecycle style (GroceryList.jsx)
+
+Class Component – export class GroceryList extends Component is a class-based React component.
+
+Component State – this.state holds userInput and groceryList.
+
+Event Handling – Methods handle input changes, form submit, adding/deleting items, and clicking to cross out items.
+
+Updating State – this.setState() is used to update the component’s state when the user types, adds, or deletes.
+
+JSX – Render method returns JSX with elements, attributes, and event handlers.
+
+Conditional Rendering / Lists – It uses .map() to dynamically render a list of <li> elements based on this.state.groceryList.
+
+Props / Imports – Imports an image (check.png) and uses it inside JSX.
+
+
 **Installation and Running Locally**
 
 Clone the repository:
