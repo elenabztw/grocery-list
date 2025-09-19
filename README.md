@@ -34,15 +34,7 @@ Component Composition – It imports and renders another component (<GroceryList
 
 **GroceryList.jsx**
 
-The app demonstrates both React paradigms at once:
-
-1) Functional component + Hooks (App.jsx)
-
-React Hooks – useState is imported and used to create state variables inside a function component.
-JSX – The return statement contains HTML-like JSX markup
-Component Composition – It imports and renders another component (<GroceryList />) inside App.
-
-3) Class component + State/lifecycle style (GroceryList.jsx)
+Class component + State/lifecycle style (GroceryList.jsx)
 
 Class Component – export class GroceryList extends Component is a class-based React component.
 
