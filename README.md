@@ -61,6 +61,7 @@ Click ADD to add the item to the list.
 Click an item to cross it out (mark as purchased).
 
 Click DELETE to clear the entire list.
+
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/e469f915-8bd8-4cd0-b17a-925aaff02f4f" />
 
 **Author**
